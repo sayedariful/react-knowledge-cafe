@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/nf8rRf7/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author_img": "https://i.ibb.co/Jd3Kw3y/boy1.png",
+        "author": "Mr. Raju",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 5,
+        "hashtags": [
+            "beginner",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/WfJ6K5X/2.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author_img": "https://i.ibb.co/fvF40Tv/boy2.jpg",
+        "author": "Mrs. Setara",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 10,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/kKhb1wn/3.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author_img": "https://i.ibb.co/FhrtKGY/girl1.jpg",
+        "author": "Mina Mostofa",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 12,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/gzCvLy3/4.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author_img": "https://i.ibb.co/cbWh22T/girl2.jpg",
+        "author": "Ariful Islam",
+        "posted_date": "September 5, 2023 (4 Days ago)",
+        "reading_time": 25,
+        "hashtags": [
+            "beginner",
+            "es6"
+        ]
+    }
+]
